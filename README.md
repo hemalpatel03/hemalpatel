@@ -1,4 +1,4 @@
-# hemalpatel-demo
+# hariom-demo
 This is my first Git Repository.
 <br>
 Author - Hemal Patel
